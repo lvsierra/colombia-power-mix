@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data (downloaded via scripts)
+data/raw/*
+!data/raw/.gitkeep
