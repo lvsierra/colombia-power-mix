@@ -106,4 +106,4 @@ The EIA notebook needs a free [EIA API key](https://www.eia.gov/opendata/) in a 
 
 ## Author
 
-Laura Sierra. Environmental engineer, MSc Data Science & AI (University of Liverpool). [github.com/lvsierra](https://github.com/lvsierra)
+Laura Sierra. [github.com/lvsierra](https://github.com/lvsierra)
